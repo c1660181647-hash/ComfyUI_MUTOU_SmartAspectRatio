@@ -44,4 +44,5 @@ A smart custom node for ComfyUI that automatically detects the aspect ratio of a
 ## 👨‍💻 About
 
 Developed by **MUTOU**.
+
 Designed for Easy-Use ComfyUI workflows.
